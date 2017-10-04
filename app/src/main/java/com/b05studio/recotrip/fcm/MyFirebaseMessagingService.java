@@ -20,7 +20,7 @@ import android.app.PendingIntent;
 import android.content.Intent;
 import android.util.Log;
 
-import com.b05studio.boxstore.MainActivity;
+import com.b05studio.recotrip.MainActivity;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 
