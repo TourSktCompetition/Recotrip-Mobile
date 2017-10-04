@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "241147912447",
+    "firebase_url": "https://unique-sentinel-125408.firebaseio.com",
+    "project_id": "unique-sentinel-125408",
+    "storage_bucket": "unique-sentinel-125408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241147912447:android:142860ed250f5e91",
+        "android_client_info": {
+          "package_name": "com.b05studio.recotrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241147912447-ktgulgm1u3ca5impmk6bl1ggujuk9ta9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.b05studio.recotrip",
+            "certificate_hash": "ba8ea29978d25206605cac8e0908af545a752463"
+          }
+        },
+        {
+          "client_id": "241147912447-jj77dgsivpk2pn124j403auairbi8s6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRP0t0VorueNT-dEPgCRjtRFHtx1US4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241147912447-jj77dgsivpk2pn124j403auairbi8s6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
